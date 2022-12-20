@@ -1,5 +1,3 @@
 [debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/C:/Users/mabba/OneDrive/Desktop/intrlliJ_Proj/ScalaProject/progfun/project/"), "progfun-build")...
-[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
-[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
-[debug] Done updating ProjectRef(uri("file:/C:/Users/mabba/OneDrive/Desktop/intrlliJ_Proj/ScalaProject/progfun/project/"), "progfun-build")
+[debug] Updating ProjectRef(uri("file:/C:/Users/mabba/OneDrive/Desktop/intrlliJ_Proj/ScalaProject/scala_fundamental/project/"), "scala_fundamental-build")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/mabba/OneDrive/Desktop/intrlliJ_Proj/ScalaProject/scala_fundamental/project/"), "scala_fundamental-build")
